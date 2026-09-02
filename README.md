@@ -13,11 +13,11 @@
 <p align="center">
   <img src="https://github.com/gokulggopi2007/gokulggopi2007/blob/main/images/ChatGPT%20Image%20Aug%201%2C%202026%2C%2011_06_47%20PM.png" alt="GOKUL G Banner" width="100%">
 </p>
-<h1 data-importer="text" align="center">Hey 👋 I'm Jeeva Arasezhilan</h1>
+<h1 data-importer="text" align="center">Hey 👋 I'm Jeeva Arasezhilan S</h1>
 
 ###
 
-<h4 data-importer="text" align="center">My name is Jeeva , and I'm a Computer Science student, Cybersecurity enthusiast, and Full Stack Developer from Tamil Nadu, India. I enjoy building innovative applications, solving programming challenges, and exploring AI and cybersecurity technologies.</h4>
+<h4 data-importer="text" align="center">My name is Jeeva Arasezhilan, and I'm a Computer Science student, Cybersecurity enthusiast, and Full Stack Developer from Tamil Nadu, India. I enjoy building innovative applications, solving programming challenges, and exploring AI and cybersecurity technologies.</h4>
 
 ###
 
