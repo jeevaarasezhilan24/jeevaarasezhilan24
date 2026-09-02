@@ -114,34 +114,25 @@
   <a href="https://www.linkedin.com/in/gokul-g-6166443a5" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="37" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/GOKULG2007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="37" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/918807315010" target="_blank">
+  <a href="https://wa.me/919360417563" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="44" height="37" alt="whatsapp logo"  />
-  </a>
-  <a href="https://t.me/gokulg_2007" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" height="37" alt="telegram logo"  />
-  </a>
-  <a href="https://discord.gg/M56DbVyv6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="37" alt="discord logo"  />
   </a>
   <a href="https://github.com/gokulggopi2007" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
 
 <h2 data-importer="text" align="center">👨‍💻 Profile viewers</h2>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=gokulggopi2007&label=PROFILE%20VIEWS&color=229ED1&style=for-the-badge" width="250"/>
+<img src="https://komarev.com/ghpvc/?username=jeevaarasezhilan24&label=PROFILE%20VIEWS&color=229ED1&style=for-the-badge" width="250"/>
 </div>
 <h2 data-importer="text" align="center">📊 GitHub Status</h2>
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=gokulggopi2007&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=jeevaarasezhilan24&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gokulggopi2007&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeevaarasezhilan24&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 <div data-importer="stats" align="center">
-  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=gokulggopi2007&theme=blue-green&hide_border=false&border_radius=6" alt="gokulggopi2007" /> <br>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=jeevaarasezhilan24&theme=blue-green&hide_border=false&border_radius=6" alt="jeevaarasezhilan24" /> <br>
 </div>
 
 <h2 data-importer="text" align="center">🐍 Contribution Snake</h2>
